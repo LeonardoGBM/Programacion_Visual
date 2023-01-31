@@ -23,5 +23,6 @@ import { BreadcrumbsComponent } from './breadcrumbs/breadcrumbs.component';
     SidebarComponent,
     FooterComponent,
   ],
+
 })
 export class SharedModule { }
